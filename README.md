@@ -1,3 +1,36 @@
+Sou uma entusiasta de tecnologia focada na qualidade de software e análise de dados. Gosto de encontrar padrões, garantir a estabilidade de sistemas e transformar dados em informação.
+
+- 🔭 Atualmente estou a aprofundar-me em **Automação de Testes** e **Análise de Dados**.
+- 📚 Estou a estudar **Python, SQL e Metodologias de QA**.
+- 🎯 O meu objetivo é atuar como QA Engineer ou Analista de Dados.
+
+---
+
+### 🛠 Tech Stack & Ferramentas
+
+**QA & Testes:**
+<div style="display: inline_block">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+</div>
+
+**Dados & Back-end:**
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+</div>
+
+---
+
+### 📊 As Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bandeira13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira13&layout=compact&theme=dracula"/>
+</div>
+
+---
 <img 
   align="left"
   alt="JAVA"
